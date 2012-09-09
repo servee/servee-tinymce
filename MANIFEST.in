@@ -1,4 +1,5 @@
 include LICENSE.txt
+include README.md
 recursive-include servee_tinymce *
 recursive-include servee_tinymce/static *
 recursive-include servee_tinymce/templates *
