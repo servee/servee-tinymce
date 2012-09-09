@@ -101,7 +101,7 @@ README = read('README.md')
 VERSION = __import__("servee_tinymce").__version__
 
 setup(
-    name = "django-servee",
+    name = "django-servee-tinymce",
     version = VERSION,
     url = 'http://github.com/servee/servee-tinymce/',
     license = 'BSD',
@@ -111,9 +111,6 @@ setup(
     author_email = 'issac@servee.com',
     packages = find_packages(exclude=["",]),
     package_data = find_package_data('servee_tinymce', only_in_packages=False),
-    install_requires = [
-        'django-servee>=0.7'
-    ],
     include_package_data=True,
     classifiers = [
         'Development Status :: 3 - Alpha',
