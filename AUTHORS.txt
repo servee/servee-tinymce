@@ -1,0 +1,11 @@
+Primary
+-------
+Issac Kelly <issac@servee.com>
+Kasey Kelly <kasey@servee.com>
+
+
+TinyMCE Authors
+---------------
+
+TinyMCE is created and maintained by MoxieCode, and is not affiliated with this
+project http://www.tinymce.com/

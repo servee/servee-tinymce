@@ -1,0 +1,5 @@
+include LICENSE.txt
+recursive-include servee_tinymce *
+recursive-include servee_tinymce/static *
+recursive-include servee_tinymce/templates *
+recursive-include docs *
